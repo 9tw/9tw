@@ -24,10 +24,12 @@
     <div class="wrap">
       <div style="margin: 10px 5px;">
         <p align="left">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="javascript" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="go" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="py" width="40" height="40"/>
         </p>
       </div>
     </div>
@@ -52,7 +54,8 @@
       <div style="margin: 10px 5px;">
         <p align="left">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="40" height="40"/>
         </p>
       </div>
     </div>
@@ -65,7 +68,33 @@
     <td class="border_l border_r border_t border_b selected">
       <div class="wrap">
         <div style="margin: 10px 5px, font-weight: bold;">
-          <p align="center">Tools/Frameworks</p>
+          <p align="center">Frameworks</p>
+        </div>
+      </div>
+    </td>
+  </tr>
+  
+  <tr>
+  <td class="border_l border_r border_t border_b selected">
+    <div class="wrap">
+      <div style="margin: 10px 5px;">
+        <p align="left">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="mysql" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="mysql" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="mysql" width="40" height="40"/>
+        </p>
+      </div>
+    </div>
+  </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td class="border_l border_r border_t border_b selected">
+      <div class="wrap">
+        <div style="margin: 10px 5px, font-weight: bold;">
+          <p align="center">Tools</p>
         </div>
       </div>
     </td>
