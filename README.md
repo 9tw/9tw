@@ -1,4 +1,4 @@
-<h1>Hello, I'am Gerry 👋</h1>
+<h1>Hi guys 👋</h1>
 <p>I am a Full Stack Developer and also a Programming Teacher. Currently working with ReactJS on Frontend, NodeJS on Backend with PostgreSQL on database. Also have good knowledge on Java Spring Boot and React Native with Firebase.</p>
 
 🔗 &nbsp;**Connect with me**
